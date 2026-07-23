@@ -1,0 +1,11 @@
+# Machine-local noise — never sync these.
+.DS_Store
+*.log
+
+# Anything that could carry a secret. Keys belong on one machine only:
+# generate a fresh one per machine and register its public half instead.
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+.env

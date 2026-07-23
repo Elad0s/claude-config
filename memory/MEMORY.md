@@ -1,0 +1,2 @@
+- [3pines.studio site](3pines-studio-site.md) — stack, SEO cleanup state, portfolio noindex is intentional
+- [Hostinger new project server](hostinger-new-project-server.md) — SSH u694051539@147.93.74.187:65002, project TBD

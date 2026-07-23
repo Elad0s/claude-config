@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mcp-registry__list_connectors",
+      "mcp__mcp-registry__search_mcp_registry",
+      "Bash(curl -s -u \"topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K\" \"https://31b.557.myftpupload.com/wp-json/wp/v2/users/me\" -w \"\\\\nHTTP_STATUS:%{http_code}\\\\n\")",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' 'https://31b.557.myftpupload.com/wp-json/wp/v2/pages?per_page=100&_fields=id,title,link,status,parent,menu_order')",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); [print\\(c['id'],'|',c['count'],'|',c['name']\\) for c in d]\")",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' https://31b.557.myftpupload.com/wp-json/)",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' https://31b.557.myftpupload.com/wp-json/wp/v2/pages/__TRACKED_VAR__?_fields=id,title,yoast_head_json)",
+      "Bash(curl -s \"https://31b.557.myftpupload.com/\")",
+      "Bash(python3 -c ' *)",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' 'https://31b.557.myftpupload.com/wp-json/wp/v2/menu-items?per_page=100&_fields=title,url,menu_order,object,object_id')",
+      "Bash(curl -s -o /dev/null -w '%{http_code}' https://31b.557.myftpupload.com/__TRACKED_VAR__)",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' 'https://31b.557.myftpupload.com/wp-json/wp/v2/__TRACKED_VAR__?per_page=100&_fields=id,title,link,yoast_head_json,featured_media')",
+      "Bash(curl -s \"https://31b.557.myftpupload.com/services/brick-repair-and-replacement/\")",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' -I 'https://31b.557.myftpupload.com/wp-json/wp/v2/media?per_page=1&media_type=image')",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' -X POST https://31b.557.myftpupload.com/wp-json/wp/v2/media/342 -H 'Content-Type: application/json' -d '{\"alt_text\":\"test alt\"}' -w '\\\\nHTTP:%{http_code}\\\\n')",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' -X POST https://31b.557.myftpupload.com/wp-json/wp/v2/service_area/718 -H 'Content-Type: application/json' -d '{\"meta\":{\"_yoast_wpseo_metadesc\":\"TEST DESC 123\"}}' -w '\\\\nHTTP:%{http_code}\\\\n')",
+      "Bash(python3 -c *)",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' 'https://31b.557.myftpupload.com/wp-json/wp/v2/service_area/718?context=edit&_fields=meta')",
+      "mcp__Claude_in_Chrome__list_connected_browsers",
+      "mcp__Claude_in_Chrome__select_browser",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "mcp__Claude_in_Chrome__navigate",
+      "mcp__Claude_in_Chrome__computer",
+      "mcp__Claude_in_Chrome__find",
+      "mcp__Claude_in_Chrome__browser_batch",
+      "mcp__Claude_in_Chrome__javascript_tool",
+      "Bash(curl -s https://31b.557.myftpupload.com/service-areas/middlesex/burlington/?nocache=__TRACKED_VAR__ -o /tmp/burl.html -w 'HTTP:%{http_code}\\\\n')",
+      "Bash(curl -s https://31b.557.myftpupload.com/?nocache=__TRACKED_VAR__)",
+      "Bash(cat /tmp/topdog_schema.b64)",
+      "Bash(curl -s __TRACKED_VAR__?cb=__TRACKED_VAR____TRACKED_VAR__ -H 'Cache-Control: no-cache')",
+      "Bash(curl -s -u 'topdog:VPip iApP y1Lz Q9Ux DGqp Wd5K' 'https://31b.557.myftpupload.com/wp-json/wp/v2/posts?per_page=3&_fields=id,link')",
+      "Skill(update-config)",
+      "Skill(update-config:*)"
+    ]
+  }
+}

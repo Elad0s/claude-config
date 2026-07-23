@@ -1,0 +1,22 @@
+[
+  {"query": "can you connect to my wordpress site and rewrite the meta descriptions on all my service pages? right now they're all the same boilerplate with the city swapped", "should_trigger": true},
+  {"query": "i need to add LocalBusiness schema to my plumbing company's wordpress site — it's on godaddy, running yoast + elementor pro", "should_trigger": true},
+  {"query": "my service-area pages have no alt text on any of the images, there's like 40 of them. here's the app password, can you fix them all", "should_trigger": true},
+  {"query": "the title tags on my location pages are just '{city} - {brand}'. make them actually good for SEO, under 60 chars, unique per town", "should_trigger": true},
+  {"query": "how do i set the SEO title and description for a custom post type archive in wordpress? yoast won't let me edit it in the bulk editor", "should_trigger": true},
+  {"query": "we're launching a new wordpress site for a roofing client. set up all the yoast titles + meta descriptions for the 18 town pages and the 9 service pages", "should_trigger": true},
+  {"query": "add Article schema to my blog posts and Service schema to my service pages on wordpress — yoast isn't outputting article markup on the elementor templates", "should_trigger": true},
+  {"query": "go through my wp site and improve the search appearance — meta, alt text, schema, whatever's missing. here's the wp-json url and login", "should_trigger": true},
+  {"query": "we have 55 five-star google reviews, add aggregateRating schema to the site so we get stars in search", "should_trigger": true},
+  {"query": "rewrite the meta descriptions for each county archive page on my chimney site, each one should mention the towns in that county and have a different local angle, no phone numbers", "should_trigger": true},
+  {"query": "write me a 1500-word blog post about how often you should clean your chimney", "should_trigger": false},
+  {"query": "my wordpress site takes 8 seconds to load, can you help me figure out what's slowing it down and speed it up", "should_trigger": false},
+  {"query": "i need a react/next.js component that outputs JSON-LD product schema for my headless storefront", "should_trigger": false},
+  {"query": "do keyword research for my plumbing business and tell me which topics to write about to beat my competitors", "should_trigger": false},
+  {"query": "migrate my wordpress site from godaddy shared hosting to a new VPS and set up the DNS", "should_trigger": false},
+  {"query": "translate all my service pages on the wordpress site into spanish with proper hreflang tags", "should_trigger": false},
+  {"query": "set up a contact form 7 form on my wordpress contact page and connect it to my crm", "should_trigger": false},
+  {"query": "the php version on my hosting is 7.4, can you help me upgrade wordpress to run on php 8.2 without breaking the site", "should_trigger": false},
+  {"query": "find and fix all the broken internal links and 404s on my wordpress blog", "should_trigger": false},
+  {"query": "design a new logo and brand color palette for my chimney sweep company", "should_trigger": false}
+]
