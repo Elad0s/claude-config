@@ -1,2 +1,2 @@
-- [3pines.studio site](3pines-studio-site.md) — stack, SEO cleanup state, portfolio noindex is intentional
-- [Hostinger new project server](hostinger-new-project-server.md) — SSH u694051539@147.93.74.187:65002, project TBD
+- [3pines.studio site](3pines-studio-site.md) — stack, SSH+WP-CLI access, Yoast indexable gotcha, "סטודיו לבניית אתרים" campaign, GA4 consent fix
+- [Hostinger server](hostinger-new-project-server.md) — SSH key auth to u694051539@147.93.74.187:65002, hosts all 14 client domains
